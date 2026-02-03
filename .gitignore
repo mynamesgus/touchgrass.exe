@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment secrets
+.env
+
+# Evidence & forensic data
+vault/
+records/
+uploads/
+workflow_logs/
+
+# Exported files
+*.zip
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
